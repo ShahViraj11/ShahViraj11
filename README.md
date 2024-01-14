@@ -1,82 +1,75 @@
+<div align="center">
+    <img src="assets/greetings.gif" align="center" height="" width="500" />
+</div>
 
-<!--  https://ritik307.github.io/portfolio/  -->
-<p align="center">
- 
-</p align="center">
-<img src="Architype Vierkant (1).png" />
-
-<p align="center">
- 
- <img src="https://badges.pufler.dev/visits/ritik307/ritik307"/> 
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
- <img src="https://badges.pufler.dev/repos/ritik307"/>
- <img src="https://badges.pufler.dev/commits/monthly/ritik307" />
-
-</p>
-
-<!-- <p align="center">
-  I'm a 3rd year student pursuing Master's in Computer Applications 🎓 from Guru Gobind Singh Indraprastha University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
-</p>   -->
-
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+### <div align="center" width="200">I am Ludal, a French junior DevOps Engineer 🇫🇷</div>
 
 <p align="center">
- <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+    <a href="mailto:contact@iamludal.fr">
+        <img src="https://img.shields.io/badge/mail-%23ff4343.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://twitter.com/iamludal">
+        <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white" />
+    </a>
+    <a href="https://discordapp.com/users/256769299954401280">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    </a>
+    <a href="https://iamludal.fr">
+        <img src="https://svgshare.com/i/fDu.svg" />
+    </a>
 </p>
-
-<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
-<!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
-<a href="mailto: ritikpr307@gmail.com">
- <img src="https://img.shields.io/badge/-ritikpr307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
-</a>
-<a href="https://www.linkedin.com/in/ritik-rawal-698a18142/">
- <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
-</a>
- <a href="https://twitter.com/ritikhere307">
- <img src="https://img.shields.io/badge/-ritikhere307-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
-</a>
+    <code>Automation 🚀</code> 
+    <code>System Design 🧠</code>
+    <code>Monitoring 🚦</code>
+    <code>Cybersecurity 🔒</code>
 </p>
 
+## What I've Done 👨🏻‍💻
 
-<h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
-</h2>
-<p align="center">
-  <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+<div align="center">
+    
+[🖥️ Auto Workspace Setup](https://github.com/iamludal/auto-workspace-setup) | [🛜 VPN Spawner](https://github.com/iamludal/vpn-spawner) | [⌨️ Typospeed](http://typospeed.iamludal.fr) | [🚀 Cryptac](https://play.google.com/store/apps/details?id=fr.iamludal.cryptac)  
+--- | --- | --- | ---
 
-<h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
- 
-<br>
+</div>
 
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=ritik307&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ritik307&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
-</p>
+## My Main Stack 🛠️
 
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ritik307&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ritik307&theme=redical">
-</p> 
-<hr>
-<p align="center">If you like it, do fork 🍴 and star ⭐</p>
+<table>
+    <thead>
+        <tr>
+            <th>Development</th>
+            <th>Operations</th>
+            <th>Databases</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+                <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" />
+                <img src="https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs&logoColor=F00" />
+                <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+                <img src="https://img.shields.io/badge/Spring%20Boot-67AA3C?style=for-the-badge&logo=springboot&logoColor=white" />
+                <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=F7F7F7" />
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/Ansible-F7F7F7?style=for-the-badge&logo=ansible&logoColor=black" />
+                <img src="https://img.shields.io/badge/Terraform-F7F7F7?style=for-the-badge&logo=terraform&logoColor=5A40DD" />
+                <img src="https://img.shields.io/badge/Grafana-F7F7F7?style=for-the-badge&logo=grafana&logoColor=E55729" />
+                <img src="https://img.shields.io/badge/DataDog-F7F7F7?style=for-the-badge&logo=datadog&logoColor=632CA6" />
+                <img src="https://img.shields.io/badge/Kubernetes-F7F7F7?style=for-the-badge&logo=kubernetes&logoColor=3068DB" />
+                <img src="https://img.shields.io/badge/Docker-F7F7F7?style=for-the-badge&logo=docker&logoColor=61DAFB" />
+                <img src="https://img.shields.io/badge/GitHub%20Actions-F7F7F7?style=for-the-badge&logo=github&logoColor=black" />
+                <img src="https://img.shields.io/badge/GitLab%20CI-F7F7F7?style=for-the-badge&logo=gitlab&logoColor=FC6D26" />
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+                <img src="https://img.shields.io/badge/MongoDB-679444?style=for-the-badge&logo=mongodb&logoColor=white" />
+                <img src="https://img.shields.io/badge/Redis-C13B2C?style=for-the-badge&logo=redis&logoColor=white" />
+            </td>
+        </tr>
+    </tbody>
+</table>
