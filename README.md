@@ -2,19 +2,19 @@
     <img src="greetings.gif" align="center" height="" width="500" />
 </div>
 
-### <div align="center" width="200">I am Ludal, a French junior DevOps Engineer 🇫🇷</div>
+### <div align="center" width="200">I am Viraj, a Software Engineer from India 🇮🇳</div>
 
 <p align="center">
-    <a href="mailto:contact@iamludal.fr">
+    <a href="mailto:shahvira@msu.edu">
         <img src="https://img.shields.io/badge/mail-%23ff4343.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://twitter.com/iamludal">
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">
         <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white" />
     </a>
     <a href="https://discordapp.com/users/256769299954401280">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
-    <a href="https://iamludal.fr">
+    <a href="https://virajshah.tech">
         <img src="https://svgshare.com/i/fDu.svg" />
     </a>
 </p>
