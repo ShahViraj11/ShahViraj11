@@ -3,7 +3,7 @@
 <p align="center">
  
 </p align="center">
-<img src="Architype Vierkant.png" />
+<img src="Architype Vierkant (1).png" />
 
 <p align="center">
  
