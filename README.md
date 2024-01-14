@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/greetings.gif" align="center" height="" width="500" />
+    <img src="greetings.gif" align="center" height="" width="500" />
 </div>
 
 ### <div align="center" width="200">I am Ludal, a French junior DevOps Engineer 🇫🇷</div>
