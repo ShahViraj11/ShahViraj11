@@ -11,8 +11,6 @@
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">
         <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white" />
     </a>
-    <a href="https://virajshah.tech">
-        <img src="https://svgshare.com/i/12fy.svg" />
     </a>
 </p>
 
