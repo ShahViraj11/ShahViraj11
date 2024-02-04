@@ -11,29 +11,17 @@
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">
         <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white" />
     </a>
-    <a href="https://discordapp.com/users/256769299954401280">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-    </a>
     <a href="https://virajshah.tech">
-        <img src="https://svgshare.com/i/fDu.svg" />
+        <img src="https://svgshare.com/i/12fy.svg" />
     </a>
 </p>
 
 <p align="center">
-    <code>Automation 🚀</code> 
-    <code>System Design 🧠</code>
-    <code>Monitoring 🚦</code>
-    <code>Cybersecurity 🔒</code>
+    <code>Web Development 🚀</code> 
+    <code>Cloud Systems 🧠</code>
+    <code>AL/ML 🚦</code>
+    <code>Data Structures and Algorithms 🔒</code>
 </p>
-
-## What I've Done 👨🏻‍💻
-
-<div align="center">
-    
-[🖥️ Auto Workspace Setup](https://github.com/iamludal/auto-workspace-setup) | [🛜 VPN Spawner](https://github.com/iamludal/vpn-spawner) | [⌨️ Typospeed](http://typospeed.iamludal.fr) | [🚀 Cryptac](https://play.google.com/store/apps/details?id=fr.iamludal.cryptac)  
---- | --- | --- | ---
-
-</div>
 
 ## My Main Stack 🛠️
 
