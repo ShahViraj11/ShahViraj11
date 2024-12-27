@@ -11,7 +11,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**ABOUT ME:**
 
 ✔ Currently working as a ***Research Assistant at the Michigan State University*** <br>
-✔ Previously ***interned at Meijer as Cloud Developer and MSU Library, where I worked as a Web Developer***<br>
+✔ Previously ***interned at Meijer as Cloud Developer and MSU Library, where I worked as a Web Dev***<br>
 ✔ <ins>*I am looking for internship/full-time opportunities in Machine Learning/Data Science/Software Engineering domains*</ins><br>
 
 <br><br>
